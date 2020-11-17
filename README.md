@@ -42,7 +42,7 @@ On how to configure ESP32 module for your applications, please refer to the READ
 
 # Software Preparation
 <h3>Image</h3>
-The recommended resolution of input image is **QVGA (320x240)**.
+The recommended resolution of input image is **QVGA(320x240)**.
 
 As for choosing camera as an image offer, make sure that the ESP32 module you choose offers specific pins that your camera needs.
 
