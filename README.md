@@ -64,5 +64,5 @@ The camera component contains drivers for camera devices of ESP32.
 
 
 # Default bin
-The default bin is **[HERE].**(https://github.com/Jacobcollio/Arduino-esp-detection-cam/tree/main/CameraWebServer_gum) You can use [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) to write the default bin to the ESP-EYE.
+The default bin is **[HERE](https://github.com/Jacobcollio/Arduino-esp-detection-cam/tree/main/CameraWebServer_gum).** You can use [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) to write the default bin to the ESP-EYE.
 
