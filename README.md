@@ -42,17 +42,17 @@ On how to configure ESP32 module for your applications, please refer to the READ
 
 # Software Preparation
 <h3>Image</h3>
-The recommended resolution of input image is <h4>QVGA (320x240)</h4>.
+The recommended resolution of input image is **QVGA (320x240).**
 
 As for choosing camera as an image offer, make sure that the ESP32 module you choose offers specific pins that your camera needs.
 
 By now, we have provided some drivers of cameras, which are highly recommended to get started with:
 
-<h5> OV2640
+**OV2640**
 
-OV3660
+**OV3660**
 
-OV5640 </h5>
+**OV5640**
 
 
 
@@ -67,5 +67,5 @@ The esp-face component contains the APIs of ESP-WHO neural networks, including f
 
 
 # Default bin
-The default bin is\*\*HERE.\*\* You can use [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) to write the default bin to the ESP-EYE.
+The default bin is **[HERE]().** You can use [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) to write the default bin to the ESP-EYE.
 
