@@ -48,11 +48,11 @@ As for choosing camera as an image offer, make sure that the ESP32 module you ch
 
 By now, we have provided some drivers of cameras, which are highly recommended to get started with:
 
-<h5>OV2640
+<h5> OV2640
 
 OV3660
 
-OV5640</h5>
+OV5640 </h5>
 
 
 
@@ -67,5 +67,5 @@ The esp-face component contains the APIs of ESP-WHO neural networks, including f
 
 
 # Default bin
-The default bin is <h6>HERE.</h6> You can use [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) to write the default bin to the ESP-EYE.
+The default bin is <h5> HERE. </h5> You can use [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) to write the default bin to the ESP-EYE.
 
