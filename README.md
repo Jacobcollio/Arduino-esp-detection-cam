@@ -62,10 +62,7 @@ Components is the main framework of the SDK, with some drivers and algorithm ins
 # Camera
 The camera component contains drivers for camera devices of ESP32.
 
-# esp-face
-The esp-face component contains the APIs of ESP-WHO neural networks, including face detection and recognition framework.
-
 
 # Default bin
-The default bin is **[HERE]().** You can use [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) to write the default bin to the ESP-EYE.
+The default bin is **[HERE].** You can use [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) to write the default bin to the ESP-EYE.
 
