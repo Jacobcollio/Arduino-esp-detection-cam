@@ -35,4 +35,37 @@ Both input and output are flexible.
 <h3> Hardware Preparation</h3>
   
   
-To run ESP-WHO, you need to have a development board which integrates a ESP32 module that has sufficient GPIO pins and more than 4 MB external SPI RAM. Either ESP-WROVER-KIT or ESP-EYE can be a good choice as the test board.
+To run ESP-WHO, you need to have a development board which integrates a ESP32 module that has sufficient GPIO pins and more than 4 MB external SPI RAM. Either [ESP-WROVER-KIT](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-wrover-kit.html) or [ESP-EYE](https://www.espressif.com/en/products/devkits/esp-eye/overview) can be a good choice as the test board.
+
+On how to configure ESP32 module for your applications, please refer to the README.md of each example.
+
+
+# Software Preparation
+<h3>Image</h3>
+The recommended resolution of input image is <h4>QVGA (320x240).</h4>
+
+As for choosing camera as an image offer, make sure that the ESP32 module you choose offers specific pins that your camera needs.
+
+By now, we have provided some drivers of cameras, which are highly recommended to get started with:
+
+<h5>OV2640
+
+OV3660
+
+OV5640</h5>
+
+
+
+# Components
+Components is the main framework of the SDK, with some drivers and algorithm inside.
+
+# Camera
+The camera component contains drivers for camera devices of ESP32.
+
+# esp-face
+The esp-face component contains the APIs of ESP-WHO neural networks, including face detection and recognition framework.
+
+
+# Default bin
+The default bin is <h6>HERE.</h6> You can use [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) to write the default bin to the ESP-EYE.
+
