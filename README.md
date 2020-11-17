@@ -30,6 +30,8 @@ Both input and output are flexible.
 * Results could be output and displayed through Command line, LCD or even website via Wi-Fi http service.
 
 <h1> Quick Start with ESP-WHO
+  
 <h3> Hardware Preparation
+  
   
 To run ESP-WHO, you need to have a development board which integrates a ESP32 module that has sufficient GPIO pins and more than 4 MB external SPI RAM. Either ESP-WROVER-KIT or ESP-EYE can be a good choice as the test board.
