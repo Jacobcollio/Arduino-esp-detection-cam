@@ -20,7 +20,7 @@ In ESP-WHO, Detection, Recognition and Image Utility are at the core of the plat
 
 * Detection takes images as input and give the position of face if there is a face. It is implemented with Opencv model.
 
-* Recognition is to identify the particular person, and it needs the results of detection. It is implemented with MobileFace model.
+* Recognition is to identify the particular person, and it needs the results of detection. It is implemented with Face model.
 
 * Optimization is mainly to increase the precision of the inference, and to accelerate the whole process. But also it might change the structure of the network, update the coefficients, refactor the code, etc.
 
